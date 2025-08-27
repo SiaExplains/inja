@@ -40,3 +40,10 @@ a {
     color-scheme: dark;
   }
 }
+
+.layout {
+  display: flex;
+  flex-direction: column !important;
+  /* min-height: 100vh; */
+  background-color: rgb(225, 225, 219);
+}
